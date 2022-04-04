@@ -22,20 +22,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### ToDo
-
-This is an example of TODO.md
-
-View the raw content of this file to understand the format.
-
 ### Todo
 
 - [ ] Improve Styling
