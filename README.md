@@ -1,7 +1,7 @@
 # Vultus
 Facial expression analysis tool right in your browser
 
-![](./src/assets/vultus_demo.mp4)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55457501/161579773-ac3a6238-61af-404a-8032-3f8b8c17372d.gif)
 
 ## Installation and Dependencies
 
