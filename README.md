@@ -1,6 +1,8 @@
 # Vultus
 Facial expression analysis tool right in your browser
 
+![](./src/assets/vultus_demo.mp4)
+
 ## Installation and Dependencies
 
 1. [NodeJS](https://nodejs.org/en/)
